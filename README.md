@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @WamashuduShabane
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning c++ in my university 
-- 💞️ I’m looking to collaborate on projects that will help me advance in programming 
+- Data Science is the way to go right?👀
+- 🌱 I’m currently doing my final year in Computer science, working on different interesting projects which are also time consuming😴
+- 💞️ I’m looking to collaborate on projects that will help me advance in programming
+- I've also started learning React Native with Expo Framework, cool right?😂
 - 📫 How to reach me through my email Wamashudushabane@gmail.com 
 
 <!---
