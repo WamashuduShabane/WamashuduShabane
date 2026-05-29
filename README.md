@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WamashuduShabane
 - Data Science is the way to go right?👀
-- 🌱 I’m currently doing my final year in Computer science, working on different interesting projects which are also time consuming😴
-- 💞️ I’m looking to collaborate on projects that will help me advance in programming
-- I've also started learning React Native with Expo Framework, cool right?😂
+- 🌱 I’m currently doing my Masters in e-Science (Data science) at University of Witwatersrand.
+- Did my BSc in Mathematical Science and Honours in Computer Science at the University of Limpopo.
+- Worded on Several Projects including Fraud Detection using Machine Learning, 
 - 📫 How to reach me through my email Wamashudushabane@gmail.com 
 
 <!---
